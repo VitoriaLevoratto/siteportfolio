@@ -1,3 +1,34 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.cabecalho {
     background-color: #38412E;
+    padding: 24px 385px;
+}
+
+.cabecalho-imagem {
+
+}
+
+.sobre-mim {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+
+}
+
+.sobre-mim-div-conteudo {
+    width: 65%;
+
+}
+
+.sobre-mim-titulo {
+    padding: 24px 0;
+    font-family: ;
+    font-size: 35px;
 }
